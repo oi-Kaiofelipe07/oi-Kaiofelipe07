@@ -1,8 +1,8 @@
 ## Oiii eu sou Kaio Felipe, estudo conteúdo de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/oi-Kaiofelipe07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oi-Kaiofelipe07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oi-Kaiofelipe07&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Kaiofelipe07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiofelipe07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiofelipe07&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,6 +19,6 @@
   <a href = "mailto:kaiofelipee12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaio-felipe-004886250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/oi-Kaiofelipe07/oi-Kaiofelipe07/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kaiofelipe07/Kaiofelipe07/blob/output/github-contribution-grid-snake.svg)
  
 </div>
