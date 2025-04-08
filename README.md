@@ -17,7 +17,7 @@
   <img align="center" alt="Kaio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Kaio-less" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" /> 
     <img align="center" alt="Kaio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-      <img align="center" alt="Kaio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-original.svg">
+      <img align="center" alt="Kaio-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg">
  
   ##
  
