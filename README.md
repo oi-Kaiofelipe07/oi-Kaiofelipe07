@@ -21,7 +21,7 @@
   <img align="center" alt="Kaio-json" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">  
   <img align="center" alt="Kaio-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kaio-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Kaio-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
+  <img align="center" alt="Kaio-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 
   ##
  
