@@ -14,7 +14,7 @@
   <img align="center" alt="Kaio-Grunt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg">
   <img align="center" alt="Kaio-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Kaio-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+  <img align="center" alt="Kaio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
   ##
  
 <div> 
